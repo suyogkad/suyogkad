@@ -16,7 +16,7 @@ Data science student at Charles Darwin University, software engineer by training
       <br><sub>Every vessel leaves a fingerprint in the water. I'm teaching models to read it.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://suyog.au/blog/nepsanskrit.html"><img src="assets/sanskrit.png" alt="A Nepali sentence becoming spoken Sanskrit" width="100%"></a>
+      <a href="https://suyog.au/blog/teaching-a-model-to-speak-sanskrit-the-nepali-way/"><img src="assets/sanskrit.png" alt="A Nepali sentence becoming spoken Sanskrit" width="100%"></a>
       <br><sub>Nepali text in, spoken Sanskrit out, with barely any data to learn from.</sub>
     </td>
     <td width="33%" valign="top">
